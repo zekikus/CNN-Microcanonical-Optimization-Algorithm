@@ -17,7 +17,7 @@ class MA:
     s_best = None # Best Solution
     modelNo = 0 
     archiveList = list() # Archive Solutions
-    filePath = "/content/gdrive/My Drive/Colab Notebooks/MA_VGG_Keras/"
+    filePath = ""
     
     # Parameter Dictionary
     initParameters = None
